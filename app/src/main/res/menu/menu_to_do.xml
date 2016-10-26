@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:auto="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_add"
+        android:icon="@drawable/ic_add_box_white_36dp"
+        android:title="@string/add_item"
+        auto:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_online_users"
+        android:icon="@drawable/ic_people_white_36dp"
+        android:title="@string/online_users"
+        auto:actionLayout="@layout/action_online_users"
+        auto:showAsAction="always" />
+</menu>

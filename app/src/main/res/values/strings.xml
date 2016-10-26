@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">To-Do List</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="add_item">Add item</string>
+    <string name="to_dos">To-Dos</string>
+    <string name="hint_name">Name</string>
+    <string name="to_do">To-Do</string>
+    <string name="err_required">Required</string>
+    <string name="loading">Loading…</string>
+    <string name="fmt_user_count">User count %d</string>
+    <string name="online_users">Online users</string>
+    <string name="zero">0</string>
+</resources>
